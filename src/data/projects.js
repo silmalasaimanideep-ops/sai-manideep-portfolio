@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     title: "Netflix UI Clone",
-    image: "public/assets/Netflix.png",
+    image: "assets/Netflix.png",
     tech: ["HTML", "CSS", "JavaScript"],
     features: [
       "Responsive Netflix-style landing page",
@@ -15,7 +15,7 @@ export default [
   {
     id: 2,
     title: "AnimeNews UI Clone",
-    image: "/public/assets/AnimeNews.png",
+    image: "assets/AnimeNews.png",
     tech: ["HTML", "CSS", "JavaScript"],
     features: [
       "Latest anime news layout design",
@@ -28,7 +28,7 @@ export default [
   {
     id: 3,
     title: "Discover Italy Travel Landing Page",
-    image: "/public/assets/travel.png",
+    image: "assets/travel.png",
     tech: ["HTML", "CSS", "JavaScript"],
     features: [
       "Modern travel website hero section",
@@ -41,7 +41,7 @@ export default [
   {
     id: 4,
     title: "OTP Generator",
-    image: "/public/assets/OTP.png",
+    image: "assets/OTP.png",
     tech: ["React", "JavaScript", "CSS"],
     features: [
       "Generates secure random OTP instantly",
@@ -54,7 +54,7 @@ export default [
   {
     id: 5,
     title: "Background Color Changer",
-    image: "/public/assets/bgChnage.png",
+    image: "assets/bgChnage.png",
     tech: ["React", "useState", "CSS"],
     features: [
       "Dynamic background color switching",
@@ -67,7 +67,7 @@ export default [
   {
     id: 6,
     title: "Currency Converter React",
-    image: "/public/assets/Currency.png",
+    image: "assets/Currency.png",
     tech: ["React", "API", "JavaScript"],
     features: [
       "Real-time currency conversion",
@@ -80,14 +80,15 @@ export default [
   {
     id: 7,
     title: "Password Generator React",
-    image: "public/assets/passWord.png",
+    image: "assets/passWord.png",
     tech: ["React", "JavaScript", "CSS"],
     features: [
       "Generates strong secure passwords",
       "Customizable length and characters",
       "Fast and reliable password generation"
     ],
-    demoLink: "https://myprojectdemo.com",
+    demoLink: "https://password-generator-8ei.pages.dev/",
     github: "https://github.com/silmalasaimanideep-ops/Password-Generator-React"
   }
 ];
+
