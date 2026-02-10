@@ -64,7 +64,7 @@ function Hero() {
         {/* RIGHT IMAGE */}
         <div className="flex justify-center">
           <img
-            src="public/profile/profile.jpeg"
+            src="profile/profile.jpeg"
             alt="profile"
             className="w-72 h-72 object-cover rounded-full border-4 border-primary 
             shadow-[0_0_25px_rgba(59,130,246,0.35)]"
@@ -77,3 +77,4 @@ function Hero() {
 }
 
 export default Hero;
+
