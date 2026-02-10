@@ -47,7 +47,7 @@ function Hero() {
             </a>
 
             <a
-              href="public/Sai_Manideep_Resume.pdf"
+              href="/Manideep_Frontend_Developer_Resume.pdf"
               download
               className="px-6 py-3 rounded-lg border border-gray-700 
               hover:border-primary hover:bg-primary/5 transition"
@@ -77,4 +77,5 @@ function Hero() {
 }
 
 export default Hero;
+
 
