@@ -66,7 +66,7 @@ function Hero() {
             </a>
 
             <a
-              href="/Sai_Manideep_Resume copy.pdf"
+              href="/Sai_Manideep_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto text-center
@@ -107,3 +107,4 @@ function Hero() {
 }
 
 export default Hero;
+
