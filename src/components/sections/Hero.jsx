@@ -66,7 +66,7 @@ function Hero() {
             </a>
 
             <a
-              href="/Manideepp.pdf"
+              href="/Manideep.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto text-center
@@ -107,5 +107,6 @@ function Hero() {
 }
 
 export default Hero;
+
 
 
